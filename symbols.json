@@ -1,0 +1,13 @@
+"symbols": [
+    {
+      "name": "qqq",
+      "file": "qqq.csv",
+      "description": "QQQ GEX"
+    },
+    {
+      "name": "spy",
+      "file": "spy.csv",
+      "description": "SPY GEX"
+    }
+  ]
+}
