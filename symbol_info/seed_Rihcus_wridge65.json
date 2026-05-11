@@ -1,0 +1,5 @@
+{
+  "symbol": ["QQQ", "SPY"],
+  "description": ["QQQ GEX Data", "SPY GEX Data"],
+  "pricescale": 100
+}
