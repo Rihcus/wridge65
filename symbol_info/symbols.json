@@ -1,12 +1,12 @@
 "symbols": [
     {
-      "name": "qqq",
-      "file": "qqq.csv",
+      "name": "QQQ",
+      "file": "QQQ.csv",
       "description": "QQQ GEX"
     },
     {
-      "name": "spy",
-      "file": "spy.csv",
+      "name": "SPY",
+      "file": "SPY.csv",
       "description": "SPY GEX"
     }
   ]
